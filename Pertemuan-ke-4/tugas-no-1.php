@@ -81,4 +81,5 @@ $mobil1->setKecepatan(180); // sukses mengubah kecepatan
 $mobil1->setWarna("Hitam"); // sukses mengubah warna
 echo $mobil1->getInfo() . "<br>";
 
+
 ?>
